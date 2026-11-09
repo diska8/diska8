@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Diska Afiansyah Iqbal</h1>
-<h3 align="center">Just a guy who loves {}</h3>
+<h1 align="center">I'm Just a guy who loves {}</h1>
 
 - 🌱 I’m currently learning **Laravel,PHP,JavaScript,Go,MySQL,PostgreSQL**
 
