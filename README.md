@@ -1,12 +1,8 @@
 <h1 align="center">I'm Just a guy who loves {}</h1>
 
 - 🌱 I’m currently learning **Laravel,PHP,JavaScript,Go,MySQL,PostgreSQL**
-
-- 💬 Ask me about **Laravel,Go**
-
+- 
 - 📫 How to reach me **diskaafiansyah@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
