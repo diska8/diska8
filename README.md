@@ -1,4 +1,4 @@
-<h1 align="center">Just a guy who loves {}</h1>
+<h1 align="center">just a guy who loves {}</h1>
 <p align="left">
 </p>
 
