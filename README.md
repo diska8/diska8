@@ -1,7 +1,4 @@
 <h1 align="center">Just a guy who loves {}</h1>
-
-- I’m currently learning **Laravel,PHP,JavaScript,Go,MySQL,PostgreSQL**
-- Reach me **diskaafiansyah@gmail.com**
 <p align="left">
 </p>
 
